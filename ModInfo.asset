@@ -15,7 +15,7 @@ MonoBehaviour:
   ModName: 
   Version: 1.0.0
   WebsiteURL: 
-  Description: 
+  Description: This mod caps the player size, so the player can't grow as large as the map and die from the border. 
   Dependencies: []
   DllDependencies: []
   AssemblyDefinitionDependencies: []
