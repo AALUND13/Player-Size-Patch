@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f53b16b43f44db45911ff17aee4901d, type: 3}
   m_Name: ModInfo
   m_EditorClassIdentifier: 
-  ModName: 
+  ModName: Player Size Patch
   Version: 1.0.0
-  WebsiteURL: 
-  Description: This mod caps the player size, so the player can't grow as large as the map and die from the border. 
+  WebsiteURL: https://github.com/AALUND13/Player-Size-Patch/settings
+  Description: This mod caps the player size, so the player can't grow as large as
+    the map and die from the border.
   Dependencies: []
   DllDependencies: []
   AssemblyDefinitionDependencies: []
