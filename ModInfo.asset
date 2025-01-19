@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: ModInfo
   m_EditorClassIdentifier: 
   ModName: PlayerSizePatch
-  Version: 1.0.1
-  WebsiteURL: https://github.com/AALUND13/Player-Size-Patch/settings
+  Version: 1.0.2
+  WebsiteURL: https://github.com/AALUND13/Player-Size-Patch
   Description: This mod caps the player size, so the player can't grow as large as
     the map and die from the border.
   Dependencies: []
